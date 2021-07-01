@@ -14,4 +14,11 @@ Skills:  REACT / JS / HTML / CSS / GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexCheredow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jarishka_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/jarniy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/jarniy)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCheredow)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCheredow&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/AlexCheredow)  
+
+
 

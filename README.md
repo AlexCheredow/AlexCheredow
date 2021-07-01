@@ -1,4 +1,4 @@
-### Hi there 👋, меня зовут Александр
+### Всем привет 👋, меня зовут Александр
 ![](https://pbs.twimg.com/media/CkN3WQgWgAEj5fG.jpg)
 
 Совсем недавно я начал самостоятельное обучение программированию. Начал я с изучения HTML и CSS по книге "Новая большая книга CSS." Д. Макфарланда, параллельно просматривая видеокурсы в интернете.  
@@ -8,8 +8,8 @@
 
 Skills:  REACT / JS / HTML / CSS / GIT
 
-- 🔭 I’m currently working on this page.https://collection-of-projects.vercel.app/ 
-- 🌱 I’m currently learning Rect js 
+- 🔭 В данный момент я работаю над проектом: https://collection-of-projects.vercel.app/ 
+- 🌱Продолжаю изучать Rect js и Js.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlexCheredow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jarishka_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/jarniy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/jarniy)  
